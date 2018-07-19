@@ -1,6 +1,10 @@
 # Change Log
 All notable [changes](http://keepachangelog.com) to the "GitHub Plus Theme" extension will be documented in this file.
 
+## [1.1.4] - 2018-06-19
+### Added
+- Italic variants for fonts such as Operator Mono
+
 ## [1.1.3] - 2018-05-15
 ### Added
 - Clojure language support

@@ -5,7 +5,7 @@ GitHub color scheme.
 
 ![screenshot](./screenshot.jpg)
 
-Use [GitHub issues](https://github.com/thenikso/github-plus-theme) to report problems/requests (it might take a while to get feedback)
+Use [GitHub issues](https://github.com/sabinmarcu/github-plus-theme) to report problems/requests (it might take a while to get feedback)
 
 ## Extras
 
